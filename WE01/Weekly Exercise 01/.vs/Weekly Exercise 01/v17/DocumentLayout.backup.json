@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Theo\\source\\repos\\IGME309\\WE01\\Weekly Exercise 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7CA1DF-ED90-47B9-9ED4-4C31C800BEA8}|Weekly Exercise 01\\Weekly Exercise 01.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\WE01\\Weekly Exercise 01\\Weekly Exercise 01\\Weekly Exercise 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7CA1DF-ED90-47B9-9ED4-4C31C800BEA8}|Weekly Exercise 01\\Weekly Exercise 01.vcxproj|solutionrelative:Weekly Exercise 01\\Weekly Exercise 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weekly Exercise 01.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\WE01\\Weekly Exercise 01\\Weekly Exercise 01\\Weekly Exercise 01.cpp",
+              "RelativeDocumentMoniker": "Weekly Exercise 01\\Weekly Exercise 01.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\WE01\\Weekly Exercise 01\\Weekly Exercise 01\\Weekly Exercise 01.cpp",
+              "RelativeToolTip": "Weekly Exercise 01\\Weekly Exercise 01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T20:08:38.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
