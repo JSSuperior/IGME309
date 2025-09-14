@@ -1,0 +1,4 @@
+﻿  firstProgram.cpp
+C:\Users\theor\OneDrive\Documents\GitHub\IGME309\WE03\WE03\setup\firstProgram.cpp(65,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\theor\OneDrive\Documents\GitHub\IGME309\WE03\WE03\setup\firstProgram.cpp(65,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  setup.vcxproj -> C:\Users\theor\OneDrive\Documents\GitHub\IGME309\WE03\WE03\Debug\setup.exe
