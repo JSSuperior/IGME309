@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Theo\\source\\repos\\IGME309\\Open GL Setup\\setup\\",
+  "WorkspaceRootPath": "C:\\Users\\theor\\OneDrive\\Documents\\GitHub\\IGME309\\Open GL Setup\\setup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\theor\\OneDrive\\Documents\\GitHub\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "firstProgram.cpp",
-              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\theor\\OneDrive\\Documents\\GitHub\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp",
               "RelativeDocumentMoniker": "setup\\firstProgram.cpp",
-              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp",
+              "ToolTip": "C:\\Users\\theor\\OneDrive\\Documents\\GitHub\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp",
               "RelativeToolTip": "setup\\firstProgram.cpp",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAADcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-04T20:31:30.261Z",
               "EditorCaption": ""
