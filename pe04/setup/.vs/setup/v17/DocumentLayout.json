@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\pe04\\setup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\pe04\\setup\\setup\\E04-Template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\E04-Template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\pe04\\setup\\setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E04-Template.cpp",
+              "DocumentMoniker": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\pe04\\setup\\setup\\E04-Template.cpp",
+              "RelativeDocumentMoniker": "setup\\E04-Template.cpp",
+              "ToolTip": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\pe04\\setup\\setup\\E04-Template.cpp",
+              "RelativeToolTip": "setup\\E04-Template.cpp",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAGkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T19:19:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "firstProgram.cpp",
+              "DocumentMoniker": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\pe04\\setup\\setup\\firstProgram.cpp",
+              "RelativeDocumentMoniker": "setup\\firstProgram.cpp",
+              "ToolTip": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\pe04\\setup\\setup\\firstProgram.cpp",
+              "RelativeToolTip": "setup\\firstProgram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T20:31:30.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

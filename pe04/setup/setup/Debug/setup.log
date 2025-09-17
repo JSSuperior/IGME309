@@ -1,0 +1,8 @@
+﻿  E04-Template.cpp
+D:\Profiles\twr7348\Documents\GitHub\IGME309\pe04\setup\setup\E04-Template.cpp(48,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Profiles\twr7348\Documents\GitHub\IGME309\pe04\setup\setup\E04-Template.cpp(58,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Profiles\twr7348\Documents\GitHub\IGME309\pe04\setup\setup\E04-Template.cpp(58,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Profiles\twr7348\Documents\GitHub\IGME309\pe04\setup\setup\E04-Template.cpp(77,25): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Profiles\twr7348\Documents\GitHub\IGME309\pe04\setup\setup\E04-Template.cpp(77,20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Profiles\twr7348\Documents\GitHub\IGME309\pe04\setup\setup\E04-Template.cpp(77,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  setup.vcxproj -> D:\Profiles\twr7348\Documents\GitHub\IGME309\pe04\setup\Debug\setup.exe
