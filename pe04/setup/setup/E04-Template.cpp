@@ -137,9 +137,7 @@ void update() {
 		// write the code below
 
 		if (ballPos[1] - barPos[1] < radius
-			&& ((abs(ballPos[0] - barPos[0]) < radius - barSize/2)
-			|| (abs(ballPos[0] - barPos[0]) < radius + barSize/2))
-			)
+			&& (abs(ballPos[0] - barPos[0]) < radius + barSize/2))
 		{
 			velocity_y = -velocity_y;
 		}
