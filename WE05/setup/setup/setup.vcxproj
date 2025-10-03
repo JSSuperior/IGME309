@@ -126,7 +126,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\E05-Template\E05-Template\main.cpp" />
+    <ClCompile Include="..\..\E05-Template\E05-Template\MyMesh.cpp" />
     <ClCompile Include="firstProgram.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\E05-Template\E05-Template\MyMesh.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,13 @@
+// Course:			IGME 309
+// Student Name:	Theo Ruefli
+// Friday Exercise:	05
+
 #include "MyMesh.h"
 #include <GL/freeglut.h>
 
 #include <iostream>
+#include <string>
+#include <sstream>
 #include <fstream>
 #include <time.h>
 using namespace std;
@@ -38,11 +44,54 @@ void MyMesh::load(char* fileName)
 
 	if (!file.is_open()) {
 		// Handle error
+		throw runtime_error("File failed to open");
 	}
 
 	/****************************************/
 	// Write your code below
+
+	// Grab each line 
+	string line;
+	while (getline(file, line))
+	{
+		stringstream ss(line);
+		string prefix;
+		ss >> prefix;
+
+		//cout << prefix;
+
+		// Check the prefix, if vertex add to vertices array, otherwise add to indicies array
+		if (prefix == "v")
+		{
+			string x, y;
+
+			ss >> x >> y;
+
+			vertNum++;
+
+			vertices[(vertNum * 2) + 0] = stof(x);
+			vertices[(vertNum * 2) + 1] = stof(y);
+		    //cout << vertices[(vertNum * 2) + 0] << vertices[(vertNum * 2) + 1] << endl;
+		}
+		else if (prefix == "f")
+		{
+			string x, y, z;
+
+			ss >> x >> y >> z;
+
+			indices[(triNum * 3) + 0] = stoi(x);
+			indices[(triNum * 3) + 1] = stoi(y);
+			indices[(triNum * 3) + 2] = stoi(z);
+
+			triNum++;
+		}
+	}
 	
+	if (file.is_open())
+	{
+		file.close();
+	}
+
 	// Write your code above
 	/****************************************/
 
