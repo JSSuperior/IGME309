@@ -1,13 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\WE06\\setup\\",
+  "WorkspaceRootPath": "C:\\Users\\Theo\\source\\repos\\IGME309\\WE06\\setup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\WE06\\setup\\setup\\E07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\WE06\\setup\\setup\\E07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\E07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\WE06\\setup\\setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Theo\\source\\repos\\IGME309\\A1\\panda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\WE06\\setup\\setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,32 +21,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "E07.cpp",
-              "DocumentMoniker": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\WE06\\setup\\setup\\E07.cpp",
-              "RelativeDocumentMoniker": "setup\\E07.cpp",
-              "ToolTip": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\WE06\\setup\\setup\\E07.cpp",
-              "RelativeToolTip": "setup\\E07.cpp",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "panda.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A1\\panda.cpp",
+              "RelativeDocumentMoniker": "..\\..\\A1\\panda.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A1\\panda.cpp",
+              "RelativeToolTip": "..\\..\\A1\\panda.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T19:17:36.739Z",
+              "WhenOpened": "2025-10-22T20:49:15.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "firstProgram.cpp",
-              "DocumentMoniker": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\WE06\\setup\\setup\\firstProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\WE06\\setup\\setup\\firstProgram.cpp",
               "RelativeDocumentMoniker": "setup\\firstProgram.cpp",
-              "ToolTip": "D:\\Profiles\\twr7348\\Documents\\GitHub\\IGME309\\WE06\\setup\\setup\\firstProgram.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\WE06\\setup\\setup\\firstProgram.cpp",
               "RelativeToolTip": "setup\\firstProgram.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-04T20:31:30.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E07.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\WE06\\setup\\setup\\E07.cpp",
+              "RelativeDocumentMoniker": "setup\\E07.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\WE06\\setup\\setup\\E07.cpp",
+              "RelativeToolTip": "setup\\E07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T19:17:36.739Z",
               "EditorCaption": ""
             }
           ]

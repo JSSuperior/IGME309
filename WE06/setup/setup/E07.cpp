@@ -1,3 +1,7 @@
+// Course: IGME 309
+// Student Name: Theo Ruefli
+// Weekly Exercise: 07
+
 #ifdef __APPLE__
 #include <GLUT/glut.h>
 #else
@@ -20,7 +24,7 @@ float deltaTime = 0;
 float rotationAngle = 0.0f;
 float rotateSpeed = 90.0f;
 int vertNum = 30;
-float radius = 2.0f;
+float radius = 1.0f;
 
 
 void display(void)
@@ -30,7 +34,6 @@ void display(void)
 
 	glMatrixMode(GL_MODELVIEW);
 	glLoadIdentity();
-
 
 	/*****************************/
 	// write your code below
@@ -48,7 +51,14 @@ void display(void)
 	glEnd();
 
 	glBegin(GL_POINTS);
-	glVertex2f(10, 5);
+	glVertex2f(10, 10);
+	glEnd();
+
+	glBegin(GL_POLYGON);
+	for (int i = 0; i < vertNum; ++i) {
+		float t = (float)i / vertNum * 2.0f * 3.14f;
+		glVertex2f(10 + radius * cos(t), 5 + radius * sin(t));
+	}
 	glEnd();
 
 	// origin 10.0f, 10.0f
