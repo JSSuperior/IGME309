@@ -38,8 +38,7 @@
               "RelativeToolTip": "setup\\PolyCreation.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-11T20:17:31.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T20:17:31.099Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "setup\\PolyObject.cpp",
               "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A2\\setup\\setup\\PolyObject.cpp",
               "RelativeToolTip": "setup\\PolyObject.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-11T19:49:59.362Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "setup\\PolyObject.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-11T19:49:24.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T19:49:24.311Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "setup\\firstProgram.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-04T20:31:30.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T20:31:30.261Z"
             }
           ]
         }
