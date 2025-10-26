@@ -3,8 +3,29 @@
   "WorkspaceRootPath": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\setup\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Theo-Ruefli\\A03-Template\\ParticleSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\ParticleSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\setup\\setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4D0549-86F6-36B6-DFD7-E3790F9B9FF2}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_a05ccc34\\SingleFileISense\\_sfi_26acc47c-1658-4d70-8217-523ba5b227fc_.vcxproj|C:\\USERS\\THEO\\SOURCE\\REPOS\\IGME309\\A3\\A03-TEMPLATE\\A03-TEMPLATE\\CAMERA.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4D0549-86F6-36B6-DFD7-E3790F9B9FF2}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_a05ccc34\\SingleFileISense\\_sfi_26acc47c-1658-4d70-8217-523ba5b227fc_.vcxproj|C:\\USERS\\THEO\\SOURCE\\REPOS\\IGME309\\A3\\A03-TEMPLATE\\A03-TEMPLATE\\PARTICLESYSTEM.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4D0549-86F6-36B6-DFD7-E3790F9B9FF2}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_a05ccc34\\SingleFileISense\\_sfi_26acc47c-1658-4d70-8217-523ba5b227fc_.vcxproj|C:\\USERS\\THEO\\SOURCE\\REPOS\\IGME309\\A3\\A03-TEMPLATE\\A03-TEMPLATE\\TEXT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +40,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ParticleSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Theo-Ruefli\\A03-Template\\ParticleSystem.cpp",
+              "RelativeDocumentMoniker": "..\\A03-Theo-Ruefli\\A03-Template\\ParticleSystem.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Theo-Ruefli\\A03-Template\\ParticleSystem.cpp",
+              "RelativeToolTip": "..\\A03-Theo-Ruefli\\A03-Template\\ParticleSystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T22:23:42.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Text.h",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\Text.h",
+              "RelativeDocumentMoniker": "..\\A03-Template\\A03-Template\\Text.h",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\Text.h",
+              "RelativeToolTip": "..\\A03-Template\\A03-Template\\Text.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-26T20:51:59.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\Camera.cpp",
+              "RelativeDocumentMoniker": "..\\A03-Template\\A03-Template\\Camera.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\Camera.cpp",
+              "RelativeToolTip": "..\\A03-Template\\A03-Template\\Camera.cpp",
+              "ViewState": "AgIAAJQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T20:51:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\Camera.h",
+              "RelativeDocumentMoniker": "..\\A03-Template\\A03-Template\\Camera.h",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\Camera.h",
+              "RelativeToolTip": "..\\A03-Template\\A03-Template\\Camera.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-26T20:51:45.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\main.cpp",
+              "RelativeDocumentMoniker": "..\\A03-Template\\A03-Template\\main.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\main.cpp",
+              "RelativeToolTip": "..\\A03-Template\\A03-Template\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T20:51:43.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticleSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\ParticleSystem.cpp",
+              "RelativeDocumentMoniker": "..\\A03-Template\\A03-Template\\ParticleSystem.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\ParticleSystem.cpp",
+              "RelativeToolTip": "..\\A03-Template\\A03-Template\\ParticleSystem.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T20:51:39.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "firstProgram.cpp",
               "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\setup\\setup\\firstProgram.cpp",
               "RelativeDocumentMoniker": "setup\\firstProgram.cpp",
               "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\setup\\setup\\firstProgram.cpp",
               "RelativeToolTip": "setup\\firstProgram.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-04T20:31:30.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ec13e26f-6a25-4e9d-9f3f-1d79ecdc7436",
+        "Display": 0,
+        "X": 1376,
+        "Y": 156,
+        "Width": 1170,
+        "Height": 999,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParticleSystem.h",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\ParticleSystem.h",
+              "RelativeDocumentMoniker": "..\\A03-Template\\A03-Template\\ParticleSystem.h",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A3\\A03-Template\\A03-Template\\ParticleSystem.h",
+              "RelativeToolTip": "..\\A03-Template\\A03-Template\\ParticleSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-26T20:51:47.726Z",
               "EditorCaption": ""
             }
           ]
