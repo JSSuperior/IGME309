@@ -1,0 +1,5 @@
+500 particles: 3700 FPS
+5000 particles: 3150 FPS
+50000 particles: 670 FPS
+500000 particles: 67 FPS
+5000000 particles: 5 FPS
