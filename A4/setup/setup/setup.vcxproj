@@ -126,7 +126,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Assignment4.cpp" />
     <ClCompile Include="firstProgram.cpp" />
+    <ClCompile Include="SquareObject.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SquareObject.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

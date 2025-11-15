@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\theor\\OneDrive\\Documents\\GitHub\\IGME309\\Open GL Setup\\setup\\",
+  "WorkspaceRootPath": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\theor\\OneDrive\\Documents\\GitHub\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\Assignment4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\Assignment4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\SquareObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\SquareObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\SquareObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\SquareObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{117D49E7-7277-4A48-B49C-C3E3651A1172}|setup\\setup.vcxproj|solutionrelative:setup\\firstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Assignment4.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\Assignment4.cpp",
+              "RelativeDocumentMoniker": "setup\\Assignment4.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\Assignment4.cpp",
+              "RelativeToolTip": "setup\\Assignment4.cpp",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAKYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T03:40:27.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquareObject.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\SquareObject.cpp",
+              "RelativeDocumentMoniker": "setup\\SquareObject.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\SquareObject.cpp",
+              "RelativeToolTip": "setup\\SquareObject.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T03:17:04.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquareObject.h",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\SquareObject.h",
+              "RelativeDocumentMoniker": "setup\\SquareObject.h",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\SquareObject.h",
+              "RelativeToolTip": "setup\\SquareObject.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T03:16:42.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "firstProgram.cpp",
-              "DocumentMoniker": "C:\\Users\\theor\\OneDrive\\Documents\\GitHub\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\firstProgram.cpp",
               "RelativeDocumentMoniker": "setup\\firstProgram.cpp",
-              "ToolTip": "C:\\Users\\theor\\OneDrive\\Documents\\GitHub\\IGME309\\Open GL Setup\\setup\\setup\\firstProgram.cpp",
+              "ToolTip": "C:\\Users\\Theo\\source\\repos\\IGME309\\A4\\setup\\setup\\firstProgram.cpp",
               "RelativeToolTip": "setup\\firstProgram.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-04T20:31:30.261Z",
               "EditorCaption": ""
